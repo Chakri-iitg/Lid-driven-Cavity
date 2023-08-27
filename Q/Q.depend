@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666345510 source:c:\users\chakr\onedrive\desktop\cfd assiginment\assiginment 3\q\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<bits/stdc++.h>
+
